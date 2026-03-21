@@ -1,0 +1,5 @@
+Product_name,product_id,Category,Cost_Price,Selling_Price
+Smartwatch Alpha,p1,Wearable,"10,000","15,000"
+Fitness Tracker,p2,Wearable,"8,000","12,000"
+Smart Glasses,p3,Eyewear,"15,000","20,000"
+Smartwatch Beta,p4,Wearable,"11,000","16,000"

@@ -1,0 +1,4 @@
+- High ROAS channels should be scaled
+- Low CTR indicates weak creatives
+- High clicks but low conversions = landing page issue
+- Daily trends show performance variation
