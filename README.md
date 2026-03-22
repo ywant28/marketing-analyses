@@ -54,15 +54,15 @@ To analyze marketing data and answer critical business questions such as:
 
 ### 📊 Product Performance
 
-![Product Analysis](screenshots/product_analysis.png)
+[![Product Analysis](screenshots/product_analysis.png)](https://drive.google.com/file/d/1cIXqSknfr0cBLZgsW3hMwdBz30FoDQKP/view?usp=sharing)
 
 ### 📈 Channel ROAS
-
-![Channel ROAS](screenshots/channel_roas.png)
+[
+![Channel ROAS](screenshots/channel_roas.png)](https://drive.google.com/file/d/1FJ2-ZQFHrP3uhCoTNIt2IQwSbBMhzD1A/view?usp=sharing)
 
 ### ⏳ Time-Series Trends
 
-![Time Series](screenshots/time_series.png)
+[![Time Series](screenshots/time_series.png)](https://drive.google.com/file/d/1nfTgPGepHnLm_noEYz_ztXJhWGL2_R5N/view?usp=sharing)
 
 ---
 
